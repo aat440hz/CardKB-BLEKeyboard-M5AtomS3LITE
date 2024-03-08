@@ -26,6 +26,7 @@ Once the sketch is uploaded:
 1. Power on your M5AtomS3 LITE.
 2. Enable Bluetooth on your target device and pair it with the M5AtomS3 LITE, which appears as a BLE Keyboard.
 3. The M5AtomS3 LITE will automatically start scanning for keypresses on the CardKB and send them over BLE to the connected device.
+4. Tested to work with Windows 10.
 
 ## Features
 
